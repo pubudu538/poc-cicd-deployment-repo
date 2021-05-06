@@ -1,5 +1,5 @@
 environments:
-    - name: dev
+    - name: prod
       configs:
         endpoints:
             production:
